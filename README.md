@@ -3,11 +3,20 @@
 Welcome to my personal portfolio!
 
 ## About Me
-I have experience in ...
+With 4+ years in end-to-end project management and 6+ years of expertise in C++, SQL, Agile/Scrum, and GitHub, I
+bring a deep understanding of software development and code management. My experience includes providing
+strategic insights, along with strong communication, decision-making, and analytical skills essential for successful
+project delivery and data-driven troubleshooting. I BRING ORDER TO CHAOS!
 
 ## Skills
-- ABC
-- XYZ
+PROJECT MANAGEMENT:
+Agile Frameworks – Scrum, Kanban
+PRODUCT LIFECYCLE MANAGEMENT:
+Jira and Jira Portfolio, Confluence
+PRODUCT DOCUMENTATION:
+Business Case Design, MS Excel, PowerPoint, Project, Visio, User Stories
+TECHNICAL SKILLS
+C++, ASP.Net, GitHub, SQL, Tableau
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/harsh-sutariya-03a57b146/) or [GitHub](https://github.com/harshsutariya7429).
